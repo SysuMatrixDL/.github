@@ -18,7 +18,7 @@ MatrixDL致力于提供简单易用的云端算力，为用户的炼丹保驾护
 
 ## 视频demo
 
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=114353437152538&bvid=BV12j5vzbEWW&cid=29467738121&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+[https://www.bilibili.com/video/BV12j5vzbEWW/](https://www.bilibili.com/video/BV12j5vzbEWW/)
 
 ## 架构
 
